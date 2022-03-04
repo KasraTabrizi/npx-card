@@ -1,2 +1,7 @@
 # npx-card
-npx card of my profile
+
+Type the following command in your terminal;
+
+```
+npx kasratabrizi
+```
