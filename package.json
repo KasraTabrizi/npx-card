@@ -3,13 +3,15 @@
   "version": "1.0.2",
   "description": "an npx card of my profile",
   "main": "card.js",
+  "bin": "card.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "pub": "npm version patch & npm publish",
     "dev": "nodemon card.js"
   },
   "type": "module",
   "keywords": [],
-  "author": "Kasra Tabrizi <kasra_tabrizi@hotmail.com> (http://www.kasratabrizi.com)",
+  "author": "Kasra Tabrizi",
   "license": "MIT",
   "dependencies": {
     "boxen": "^6.2.1",
