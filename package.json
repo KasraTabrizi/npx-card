@@ -3,9 +3,6 @@
   "version": "1.0.5",
   "description": "an npx card of my profile",
   "main": "card.js",
-  "bin": {
-    "kasratabrizi": "./card.js"
-  },
   "scripts": {
     "test": "node card.js",
     "pub": "npm version patch & npm publish",
