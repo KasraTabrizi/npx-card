@@ -9,7 +9,7 @@
   },
   "type": "module",
   "keywords": [],
-  "author": "Kasra Tabrizi <kasra_tabrizi@hotmail.com> (www.kasratabrizi.com)",
+  "author": "Kasra Tabrizi <kasra_tabrizi@hotmail.com> (http://www.kasratabrizi.com)",
   "license": "MIT",
   "dependencies": {
     "boxen": "^6.2.1",
