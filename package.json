@@ -1,6 +1,6 @@
 {
   "name": "kasratabrizi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "an npx card of my profile",
   "main": "card.js",
   "scripts": {
